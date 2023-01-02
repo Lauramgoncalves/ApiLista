@@ -1,0 +1,11 @@
+C:\Users\laura\source\repos\Projeto04\Projeto04\obj\Debug\Projeto04.csproj.AssemblyReference.cache
+C:\Users\laura\source\repos\Projeto04\Projeto04\obj\Debug\Projeto04.csproj.SuggestedBindingRedirects.cache
+C:\Users\laura\source\repos\Projeto04\Projeto04\obj\Debug\Projeto04.csproj.CoreCompileInputs.cache
+C:\Users\laura\source\repos\Projeto04\Projeto04\bin\Debug\Projeto04.exe.config
+C:\Users\laura\source\repos\Projeto04\Projeto04\bin\Debug\Projeto04.exe
+C:\Users\laura\source\repos\Projeto04\Projeto04\bin\Debug\Projeto04.pdb
+C:\Users\laura\source\repos\Projeto04\Projeto04\obj\Debug\Projeto04.exe
+C:\Users\laura\source\repos\Projeto04\Projeto04\obj\Debug\Projeto04.pdb
+C:\Users\laura\source\repos\Projeto04\Projeto04\bin\Debug\Newtonsoft.Json.dll
+C:\Users\laura\source\repos\Projeto04\Projeto04\bin\Debug\Newtonsoft.Json.xml
+C:\Users\laura\source\repos\Projeto04\Projeto04\obj\Debug\Projeto04.csproj.CopyComplete
